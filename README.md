@@ -35,3 +35,7 @@ The "Clustering Server" repository aims to provide a comprehensive solution for 
 
 
 - Community Engagement and Support: Foster a community around the repository by encouraging collaboration, sharing insights, and providing support through forums, mailing lists, or online communities. Promote knowledge sharing and contribute to the collective expertise in cluster management and administration.
+
+<br>
+
+### Project Goals
