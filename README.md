@@ -7,7 +7,7 @@ The "Clustering Server" repository aims to provide a comprehensive solution for 
 
 ### Key Components & Features:
 
-- Cluster Configuration Management: Implement tools and scripts to automate the configuration and management of clustered servers. Enable administrators to easily deploy and scale cluster nodes, configure inter-node communication, and manage cluster resources.
+- <b>Cluster Configuration Management</b>: Implement tools and scripts to automate the configuration and management of clustered servers. Enable administrators to easily deploy and scale cluster nodes, configure inter-node communication, and manage cluster resources.
 
 
 - High Availability Setup: Design and deploy high availability clusters using technologies such as Pacemaker, Corosync, or Keepalived. Ensure continuous availability of services by configuring failover mechanisms and monitoring for node and service failures.
