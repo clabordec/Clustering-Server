@@ -1,6 +1,5 @@
 ### Introduction
 
-Project Description:
 The "Clustering Server" repository aims to provide a comprehensive solution for Linux system administrators to implement and manage cluster environments effectively. Clustering servers involve grouping multiple servers together to work as a single system, providing high availability, scalability, and fault tolerance for critical applications and services.
 
 <br>
