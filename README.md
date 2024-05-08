@@ -38,3 +38,9 @@ The "Clustering Server" repository aims to provide a comprehensive solution for 
 <br>
 
 ### Project Goals
+
+<br>
+
+Linux Distribution: 
+<br>
+Version:
